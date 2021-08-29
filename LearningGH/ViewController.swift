@@ -9,8 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    var text = ""
-    var engine = ""
+    var text = "Hi Chang"
+    var engine = "Chevrolet"
     
     override func viewDidLoad() {
         super.viewDidLoad()
